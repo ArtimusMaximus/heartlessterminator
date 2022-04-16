@@ -1,0 +1,1 @@
+you can import multiple separated CSS files into one CSS file so in your index.html you only have one style tag. styles.css : @import url('./styles/buttons'); @import url('./styles/headers'); index.html : <style> @import url('css/styles.css'); </style>

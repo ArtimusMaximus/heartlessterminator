@@ -1,0 +1,1 @@
+e.g. sizes="(max-width: 480px) 240px, (max-width: 960px) 480px, (max-width: 1440px) 960px, 1920px" . So we are not just listing the options but we are recommending a file based on screen 'sizes' :)

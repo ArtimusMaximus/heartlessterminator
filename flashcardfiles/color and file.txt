@@ -1,0 +1,1 @@
+<input type="file" accept="image/*" multiple> - so you can upload multiple images. <input type=color> - color input!

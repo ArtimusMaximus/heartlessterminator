@@ -1,0 +1,1 @@
+<picture> <source media="(min-width: 600px)" srcset="https://www.pizza.com/panpizza-320.jpg 320w, etc. <img src="https://www.pizza.com/panpizza-480.jpg" height="300" width="480"> </picture> . Now you have VERY spewhich image to render at what screen size. This is how you achieve horizontal vs vertical photo preferences.

@@ -1,0 +1,1 @@
+Presentation layer is separated from the body. If the presentation layer is the 'head' of a CMS, then cutting off that presentation layer creates a headless CMS.

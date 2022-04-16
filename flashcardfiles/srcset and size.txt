@@ -1,0 +1,1 @@
+the srcset attribute allows you to specify multiple files to be used on either viewport width or image pixel width. The sizes attribute gives you a way to specify a way for the browser how much of the viewport's width that image will take up at which break point.

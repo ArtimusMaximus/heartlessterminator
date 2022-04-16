@@ -1,0 +1,1 @@
+<time></time> can have an attribute added, <time datetime="2022-03-31">03-31-2022</time>

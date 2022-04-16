@@ -1,0 +1,1 @@
+<sub></sub> subscript tag and <sup></sup> superscript tags are for marking up for special characters like a numbers Squared character, or H20, the two being smaller.

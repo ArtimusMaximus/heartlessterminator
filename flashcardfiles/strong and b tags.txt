@@ -1,0 +1,1 @@
+<strong></strong> conveys seriousness, urgency, the <b></b> tag is simply bold. These two tags are used in conjuction with eachother in HTML paragraphs.

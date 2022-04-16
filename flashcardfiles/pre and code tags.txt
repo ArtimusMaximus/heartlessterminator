@@ -1,0 +1,1 @@
+<pre></pre> pays attention to s in your paragraph format. <code></code> is a way to mark code in your html and separate it from regular text.

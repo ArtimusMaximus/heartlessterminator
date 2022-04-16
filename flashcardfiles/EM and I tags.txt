@@ -1,0 +1,1 @@
+<em></em> for emphasis and <i></i> for italics, used in conjunction with eachother in HTML paragraphs.

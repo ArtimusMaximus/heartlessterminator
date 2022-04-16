@@ -1,0 +1,1 @@
+<div> & <span> both do nothing until specified. Div is a block element, Span is an inline elemen

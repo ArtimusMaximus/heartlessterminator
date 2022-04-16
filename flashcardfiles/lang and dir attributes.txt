@@ -1,0 +1,1 @@
+<p lang="en-GB"></p> would stand for english, British English. lang="fr" would be french. dir="ltr" would be left to right. dir = direction. <p dir="rtl">arabic?</p>

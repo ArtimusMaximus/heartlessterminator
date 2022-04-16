@@ -1,0 +1,1 @@
+srcset is a way to offer the browser alternate photo sizes based on the users machine. In the img tag at the end, list out the other resolutions of your photo as options: <img src="https://www.food.com/burrito" width="100" height="50" srcset="https://www.food.com/burrito960" etc. assuming burrito is 480px.

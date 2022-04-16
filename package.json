@@ -1,0 +1,27 @@
+{
+  "name": "nodenotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "text": "node app.js",
+    "random": "node readcards.js",
+    "terminator": "node await.js",
+    "start": "node await.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "express": "^4.17.3",
+    "gm": "^1.23.1",
+    "node-fetch": "^3.2.3",
+    "open": "^8.4.0",
+    "terminal-image": "^2.0.0"
+  },
+  "engines": {
+    "node": "16.11.1"
+  }
+}

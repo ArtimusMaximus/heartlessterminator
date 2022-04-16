@@ -1,0 +1,1 @@
+browser takes HTML to build the DOM tree, then it takes the DOM tree to build the accessibility tree.

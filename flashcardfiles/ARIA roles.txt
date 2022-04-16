@@ -1,0 +1,1 @@
+HTML attributes that provide accessible information about that specific element

@@ -1,0 +1,1 @@
+<q> <strong> <b> <i> <em> , these elements are all considered inline elements. quote adds quotations instead of manually doing it.

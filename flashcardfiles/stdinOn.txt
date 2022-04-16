@@ -1,0 +1,1 @@
+stdin.on is a node way to get input from the user, whereas stdout.write sends something to the user
